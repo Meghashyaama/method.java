@@ -11,8 +11,10 @@ class Method
 class Mainclass
 {
     public static void main(String[] args) {
-        Method.send("raaga");
+        Method.send("Radhakrishna");
         Method.send(67868);
+        Method.send("MeghashyaamA");
+        Method.send(45642657);
     }
 
 }
